@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/CS2Knife.csproj": {}
+  },
+  "projects": {
+    "/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/CS2Knife.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/CS2Knife.csproj",
+        "projectName": "CS2Knife",
+        "projectPath": "/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/CS2Knife.csproj",
+        "packagesPath": "/Users/kokona/.nuget/packages/",
+        "outputPath": "/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kokona/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CounterStrikeSharp.API": {
+              "target": "Package",
+              "version": "[1.0.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/kokona/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

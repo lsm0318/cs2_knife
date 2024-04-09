@@ -1,0 +1,12 @@
+/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/bin/Release/net8.0/CS2Knife.deps.json
+/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/bin/Release/net8.0/CS2Knife.dll
+/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/bin/Release/net8.0/CS2Knife.pdb
+/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/obj/Release/net8.0/CS2Knife.csproj.AssemblyReference.cache
+/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/obj/Release/net8.0/CS2Knife.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/obj/Release/net8.0/CS2Knife.AssemblyInfoInputs.cache
+/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/obj/Release/net8.0/CS2Knife.AssemblyInfo.cs
+/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/obj/Release/net8.0/CS2Knife.csproj.CoreCompileInputs.cache
+/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/obj/Release/net8.0/CS2Knife.dll
+/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/obj/Release/net8.0/refint/CS2Knife.dll
+/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/obj/Release/net8.0/CS2Knife.pdb
+/Users/kokona/Desktop/Projects/CS2Knife/CS2Knife/obj/Release/net8.0/ref/CS2Knife.dll
